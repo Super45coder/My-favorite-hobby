@@ -18,6 +18,8 @@ h1 {
 img {
     border-radius: 50%;
     width: 100px;
+    transition: transform .2s;
+    border: 10px solid #24d67a;
 }
 
 .line {
@@ -54,4 +56,7 @@ html {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+img:hover{
+    transform: scale(0.9);
 }
