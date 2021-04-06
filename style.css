@@ -38,7 +38,6 @@ img {
     padding-right: 50px;
     padding-bottom: 10px;
     font-size: 20px;
-    text-decoration:underline !important;
 }
 
 .links:hover {
@@ -64,3 +63,5 @@ img:hover{
 #writings a{
    text-shadow:none !important;
    color: blue !important;
+   text-decoration:underline !important;
+}
